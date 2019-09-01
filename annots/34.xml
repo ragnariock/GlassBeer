@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>34.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/cupwithBeer/image/34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassBeer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>121</ymin>
+			<xmax>538</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>
